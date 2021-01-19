@@ -37,4 +37,4 @@
 
 [project]: https://github.com/jesserosshutt/Leaf-it-to-me
 
-[![Spotify](https://jesserosshutt.vercel.app/api/spotify)](https://open.spotify.com/user/jesserosshutt)
+<!-- [![Spotify](https://jesserosshutt.vercel.app/api/spotify)](https://open.spotify.com/user/jesserosshutt) -->
