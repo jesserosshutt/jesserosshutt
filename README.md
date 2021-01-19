@@ -19,3 +19,5 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [linkedin]: https://www.linkedin.com/in/jesserosshutt/
+[instagram]: https://www.instagram.com/jesserosshutt/
+[twitter]: https://twitter.com/jesserosshutt
